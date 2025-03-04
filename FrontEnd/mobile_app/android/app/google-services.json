@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "373225988401",
+    "firebase_url": "https://battery-6ab54-default-rtdb.firebaseio.com",
+    "project_id": "battery-6ab54",
+    "storage_bucket": "battery-6ab54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373225988401:android:d24ebabed1768b12775010",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NpdSOpt6aSY_HiwRJpuhQU2_ZeAZ2Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373225988401:android:77fe10973621c27f775010",
+        "android_client_info": {
+          "package_name": "com.mobile.batteryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NpdSOpt6aSY_HiwRJpuhQU2_ZeAZ2Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
